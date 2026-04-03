@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sathwik Reddy</h1>
-<h3 align="center">Aspiring ML Engineer | Building End-to-End MLOps Systems</h3>
+<h3 align="center">ML Engineer in the Making | MLOps • Data Engineering • Cloud</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;MLOps+Enthusiast;Python+Developer;Building+Real+World+Projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Real-World+ML+Systems;MLOps+Enthusiast;Data+Engineering+%7C+Cloud;Turning+Data+into+Impact&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 CSE Student passionate about **Machine Learning & Data Engineering**
-- 🧠 Built an **ICU Mortality Prediction System (MLOps)**
-- ⚙️ Love working on **real-world ML pipelines & deployment**
-- ☁️ Exploring **Cloud (Azure) & scalable systems**
-- 🎯 Goal: Become a **ML Engineer / Data Engineer**
+- 🎓 CSE Student passionate about **Machine Learning, Data Engineering & Scalable Systems**
+- 🧠 Built an **end-to-end ICU Mortality Prediction System (MLOps)**
+- ⚙️ Hands-on with **real-world data pipelines, model deployment & analytics**
+- ☁️ Working with **Azure, Databricks & Cloud-based ML workflows**
+- 🎯 Goal: Become a **Machine Learning / Data Engineer**
 
 ---
 
@@ -36,14 +36,41 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
-### ☁️ Cloud & Tools
+### ☁️ Cloud & Data Engineering
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft-azure)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
+![Databricks](https://img.shields.io/badge/Databricks-orange?style=for-the-badge)
+![PySpark](https://img.shields.io/badge/PySpark-yellow?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
 
 ---
 
-## GitHub Stats
+## 🚀 Featured Project
+
+### 🧠 ICU Mortality Prediction System (MLOps)
+🔗 https://github.com/sathwikreddy3008/icu-mlops-project  
+🌐 https://icu-mlops-project.streamlit.app/
+
+- Built an **end-to-end ML pipeline** using clinical ICU data  
+- Engineered **70+ features** from vitals, diagnoses & time-series data  
+- Achieved **~0.91 ROC-AUC (XGBoost)**  
+- Solved **training-serving skew** for production consistency  
+- Deployed using **FastAPI + Streamlit** for real-time predictions  
+- Implemented **risk stratification (Low / Medium / High)**  
+
+---
+
+## 🏆 Experience
+
+### 💼 Apexon — Data & AI Intern
+- Processed **112,000+ clinical records** using PySpark, SQL & Azure Databricks  
+- Built **scalable ETL pipelines** for healthcare data transformation  
+- Performed **EDA on ICU mortality, readmission & disease trends**  
+- Developed **data visualizations** for stakeholder insights  
+- Applied **Kaplan–Meier survival analysis** for patient outcome evaluation  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sathwikreddy3008&show_icons=true&theme=tokyonight" />
@@ -59,16 +86,24 @@
 
 ---
 
-## 🔥 Current Focus
-- 🚀 Improving MLOps pipelines
-- 📊 Advanced ML & Feature Engineering
-- ☁️ Cloud Deployment (Azure)
+## 🔥 What I'm Working On
+- 🚀 Advanced MLOps pipelines & model optimization  
+- 📊 Feature engineering for real-world datasets  
+- ☁️ Cloud-native ML systems (Azure)  
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/sathwikreddy3008/sathwikreddy3008/blob/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/sathwik-reddy-632823255/
-- 📧 Email: satwikreddy777@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sathwik-reddy-632823255/
+- 📧 Email: satwikreddy777@gmail.com  
 
 ---
 
