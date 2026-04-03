@@ -1,77 +1,77 @@
-# Hi 👋, I'm Sathwik Reddy  
+<h1 align="center">Hi 👋, I'm Sathwik Reddy</h1>
+<h3 align="center">Aspiring ML Engineer | Building End-to-End MLOps Systems</h3>
 
-🎓 CSE Student | 💻 Aspiring ML Engineer  
-🚀 Building real-world Machine Learning & MLOps projects  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;MLOps+Enthusiast;Python+Developer;Building+Real+World+Projects&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🔥 About Me
-- 🧠 Currently working on **ICU Mortality Prediction (MLOps Project)**  
-- 📊 Experienced in Data Analysis, Feature Engineering & ML Models  
-- ⚙️ Skilled in building end-to-end ML pipelines  
-- ☁️ Exploring Cloud (Azure) & Deployment  
-- 🎯 Goal: Become a Machine Learning / Data Engineer  
+## 🚀 About Me
+- 🎓 CSE Student passionate about **Machine Learning & Data Engineering**
+- 🧠 Built an **ICU Mortality Prediction System (MLOps)**
+- ⚙️ Love working on **real-world ML pipelines & deployment**
+- ☁️ Exploring **Cloud (Azure) & scalable systems**
+- 🎯 Goal: Become a **ML Engineer / Data Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-Python | Java | C  
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 
-**Data & ML:**  
-Pandas | NumPy | Scikit-learn | XGBoost | LightGBM | CatBoost  
+### 📊 Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikit-learn)
+![XGBoost](https://img.shields.io/badge/XGBoost-red?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-green?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-yellow?style=for-the-badge)
 
-**Backend & Deployment:**  
-FastAPI | Streamlit | Docker (Basics)  
+### ⚙️ Backend & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
-**Tools:**  
-Git | GitHub | VS Code | Jupyter Notebook  
-
-**Cloud:**  
-Azure (Beginner)  
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 ICU Mortality Prediction (MLOps)
-- Built end-to-end ML pipeline using MIMIC-III dataset  
-- Engineered 70+ clinical features  
-- Achieved ~0.91 ROC-AUC using XGBoost  
-- Deployed using FastAPI + Streamlit  
-
-🔗 https://github.com/sathwikreddy3008/your-repo-link  
+### ☁️ Cloud & Tools
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
 
 ---
 
-### 📈 Real-Time Crop Price Monitoring System
-- Built using Django for real-time agricultural insights  
-- Helps users track crop prices efficiently  
+## GitHub Stats
 
-🔗 https://github.com/sathwikreddy3008/REAL-TIME-MONITORING-OF-CROP-PRICES  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sathwikreddy3008&show_icons=true&theme=tokyonight" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikreddy3008&theme=tokyonight" />
+</p>
 
-## 📊 GitHub Stats
-
-![Sathwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathwikreddy3008&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikreddy3008&layout=compact&theme=radical)
-
----
-
-## 🔥 What I'm Working On
-- Improving MLOps pipelines & deployment  
-- Learning advanced ML & system design  
-- Building impactful real-world projects  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikreddy3008&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🤝 Connect with Me
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (your email)
+## 🔥 Current Focus
+- 🚀 Improving MLOps pipelines
+- 📊 Advanced ML & Feature Engineering
+- ☁️ Cloud Deployment (Azure)
 
 ---
 
-⭐️ From [sathwikreddy3008](https://github.com/sathwikreddy3008)
+## 🤝 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/sathwik-reddy-632823255/
+- 📧 Email: satwikreddy777@gmail.com
+
+---
+
+<p align="center">
+  ⭐️ If you like my work, consider giving a star!
+</p>
