@@ -73,11 +73,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathwikreddy3008&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sathwikreddy3008&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikreddy3008&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sathwikreddy3008&theme=tokyonight" />
 </p>
 
 <p align="center">
