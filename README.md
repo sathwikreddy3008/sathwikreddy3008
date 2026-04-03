@@ -23,7 +23,7 @@
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 
-### 📊 Data & ML
+### 📈 Data & ML
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikit-learn)
@@ -70,7 +70,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sathwikreddy3008&show_icons=true&theme=tokyonight&cache_seconds=1800" />
@@ -88,7 +88,7 @@
 
 ## 🔥 What I'm Working On
 - 🚀 Advanced MLOps pipelines & model optimization  
-- 📊 Feature engineering for real-world datasets  
+- 📈 Feature engineering for real-world datasets  
 - ☁️ Cloud-native ML systems (Azure)  
 
 ---
