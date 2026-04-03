@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathwik Reddy</h1>
-<h3 align="center">ML Engineer in the Making | MLOps • Data Engineering • Cloud</h3>
+<h3 align="center">MLOps • Data Engineering • Cloud</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Real-World+ML+Systems;MLOps+Enthusiast;Data+Engineering+%7C+Cloud;Turning+Data+into+Impact&center=true&width=500&height=45">
@@ -73,8 +73,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sathwikreddy3008&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikreddy3008&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sathwikreddy3008&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sathwikreddy3008&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikreddy3008&layout=compact&theme=tokyonight" />
 </p>
 
 ---
