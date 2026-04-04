@@ -12,7 +12,7 @@
 - 🧠 Built an **end-to-end ICU Mortality Prediction System (MLOps)**
 - ⚙️ Hands-on with **real-world data pipelines, model deployment & analytics**
 - ☁️ Working with **Azure, Databricks & Cloud-based ML workflows**
-- 🎯 Goal: Become a **Machine Learning / Data Engineer**
+- 🎯 Goal: Become a **Machine Learning , Cloud / Data Engineer**
 
 ---
 
