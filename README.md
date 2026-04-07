@@ -28,8 +28,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikit-learn)
 ![XGBoost](https://img.shields.io/badge/XGBoost-red?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-green?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/CatBoost-yellow?style=for-the-badge)
+<!--![LightGBM](https://img.shields.io/badge/LightGBM-green?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-yellow?style=for-the-badge)-->
 
 ### ⚙️ Backend & Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
