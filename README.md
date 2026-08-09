@@ -63,6 +63,21 @@
 
 ## 🚀 Featured Projects
 
+### 🌐 OmniContext
+
+🔗 **GitHub:** https://github.com/sathwikreddy3008/omnicontext
+
+- Built a **local-first RAG platform** for personal and developer knowledge management
+- Supports **PDFs, code repositories, web pages, and clipboard ingestion**
+- Implemented **semantic chunking, metadata enrichment, and hybrid retrieval (vector + keyword search)**
+- Added **confidence scoring and source citations** to improve grounding and reduce hallucinations
+- Exposed retrieval services through **FastAPI**, with **web, desktop, and CLI interfaces**
+- Containerized the system using **Docker** for reproducible local deployment
+
+> **Focus:** Building privacy-preserving AI systems that combine **retrieval, context management, and developer tooling** into a usable end-to-end workflow.
+
+---
+
 ### 🧠 ICU Mortality Risk Prediction System
 
 🔗 **GitHub:** https://github.com/sathwikreddy3008/icu-mlops-project  
@@ -77,21 +92,6 @@
 
 ---
 
-### 🌐 Omni Context
-
-🔗 **GitHub:** https://github.com/sathwikreddy3008/omnicontext
-
-- **Data Ingestion:** SQL, PySpark, streaming & batch processing
-- **Data Engineering:** ETL pipelines, feature engineering, data quality workflows
-- **Machine Learning:** Model training, evaluation, XGBoost, Scikit-learn
-- **MLOps:** MLflow tracking, FastAPI serving, Dockerized deployment
-- **Cloud Platforms:** Azure Databricks, Azure Storage, cloud-native analytics
-- **Analytics & Visualization:** Pandas, Matplotlib, Seaborn, Streamlit dashboards
-- **System Thinking:** Scalability, reproducibility, monitoring, and production reliability
-
-> **Focus:** Building reliable, scalable, and production-ready AI systems that connect **data engineering, machine learning, cloud infrastructure, and deployment workflows** end-to-end.
-
----
 ### 📡 Real-Time E-Commerce Analytics Platform
 
 🔗 **GitHub:** https://github.com/sathwikreddy3008/Real-Time-E-Commerce-Analytics-Platform
